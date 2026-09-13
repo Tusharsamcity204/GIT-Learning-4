@@ -17,7 +17,7 @@ public class Sum {
             sum = sum + number;
         }
 
-        System.out.println("Sum   = " + sum);
+        System.out.println("Sum of desired number is   = " + sum);
 
         sc.close();
     }
