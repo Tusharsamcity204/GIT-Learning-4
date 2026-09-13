@@ -18,7 +18,7 @@ public class Multiply {
             multiply = multiply * number;
         }
 
-        System.out.println("Multiplication = " + multiply);
+        System.out.println("Multiplication of desired number is  = " + multiply);
 
         sc.close();
     }
